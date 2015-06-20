@@ -6,13 +6,16 @@
             <input type="text" class="form-control" placeholder="Search something">
         </p>
     <div class="spacing"></div> -->
-    <h4>Subscribe</h4>
+    <h4>Subscreva</h4>
     <div class="hline"></div>
         <p>
-            <p class="rss-subscribe">Subscribe to this blog <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>.</p>
+            <p class="rss-subscribe">Subscreva este blog <a href="{{ "/feed.xml" | prepend: site.baseurl }}">através de RSS</a>.</p>
         </p>
     <div class="spacing"></div>
-    <h4>Categories</h4>
+    <h4>Se junte a nós</h4>
+    <div class="hline"></div>
+    <p><div class="fb-page" data-href="https://www.facebook.com/abdominais" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/abdominais"><a href="https://www.facebook.com/abdominais">Abdominais Definidos</a></blockquote></div></div></p>
+    <h4>Categorias</h4>
     <div class="hline"></div>
     {% for category in site.categories %}{% unless category.first == "blog" or category.first == "project" or category.first == "question" %}
         <p>
@@ -23,7 +26,7 @@
 
     <div class="spacing"></div>
 
-    <h4>Recent Posts</h4>
+    <h4>Posts Recentes</h4>
     <div class="hline"></div>
         <ul class="popular-posts">
             {% for post in site.categories['blog'] limit:4 %} 
@@ -37,7 +40,7 @@
 
     <div class="spacing"></div>
 
-    <h4>Popular Tags</h4>
+    <h4>Tags Populares</h4>
     <div class="hline"></div>
     <p>
     {% for category in site.categories %}{% unless category.first == "blog" or category.first == "project" or category.first == "question" %}
