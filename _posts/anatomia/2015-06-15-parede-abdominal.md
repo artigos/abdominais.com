@@ -16,7 +16,7 @@ Pelo facto de não haver um suporte ósseo na parede da cavidade abdominal, a su
 
 De modo resumido é constituída das seguintes camadas: Pele, Tecido Celular Subcutâneo, Camada Muscular (fáscias / fibras musculares / aponeuroses) e Peritônio.
 
-###Pele e tecido subcutânio
+### Pele e tecido subcutânio
 
 Na pele as linhas de forças são transversais.
 
@@ -26,7 +26,7 @@ O tecido subcutâneo tem constituição célulo-adiposa e possui três fascias:
 * Fáscia de Scarpa: mais profunda;
 * Fáscia Intermediária: entre as duas.
 
-###Camada Muscular
+### Camada Muscular
 É constituida pelos músculos: Piramidais, Rectos, Obliquo externo ou Grande Obliquo, Obliquo interno e Transverso.
 
 A sua conformação anatômica vem a formar importantes estruturas:
