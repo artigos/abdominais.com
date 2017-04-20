@@ -3,7 +3,6 @@
 # Site settings
 title: ABDOMINAIS
 description: "Saiba como obter abdominais definidos. Só os melhores exercícios abdominais."
-analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://abdominais.com"
 
