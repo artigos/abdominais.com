@@ -5,7 +5,7 @@ title: ABDOMINAIS
 description: "Saiba como obter abdominais definidos. Só os melhores exercícios abdominais."
 baseurl: "" #important: start with /
 url: "http://abdominais.com"
-
+analytics: #Google analytics code in the format XX-nnnnnnnn-n
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title
